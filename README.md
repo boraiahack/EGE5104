@@ -3,10 +3,12 @@ Mineralogy Course
 
 
 Course Description
+
 Mineralogy is the branch of geology that deals with the fundamental building blocks of all rocks, i.e., minerals. It involves the systematic study that deals with the characteristics of the individual and group of minerals.The course deals with the analytical, macroscopic and microscopic investigations of minerals to understand their crystal chemistry, crystal structure, physical properties, optical properties and genesis.The course aims to give an overall understanding of how the textures of the minerals control the chemical budget, and in turn aids the chemical evolution of the solid Earth.
 
 
 Course Outcome
+
 By the end of the course, students are expected to be able to:
   Demonstrate mastery of the terminology of mineralogy
   Demonstrate confidence and accuracy in identifying important minerals in handspecimens, in outcrop, and under the microscope, and apply the theories to the
