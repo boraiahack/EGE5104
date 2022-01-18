@@ -44,20 +44,37 @@ End Semester Assessment – 60%
 References
   
   Perkins, D., 2014, Mineralogy, Pearson
+  
   Okrusch, M. and Frimmel, H.E., 2020, Mineralogy – an introduction to minerals, rocks and mineral deposits, Springer Publications
+  
   Kerr, P. F., 1959, Optical Mineralogy, McGraw Hill.
+  
   Naidu, P.R.J., 1967, Johnannsen’s Optical Mineralogy. Allied publishers.
+  
   Naidu, P.R.J., 1958, Four Axis Universal Stage, Commercial Printing and Publishing House.
+  
   Philips, F.C., 1963, Introduction to Crystallography, Thomas Nelson.
+  
   Philips, W.R., 1971, Mineral Optics – Principles and Techniques, Freeman.
+  
   Read, H.H., 1974, Rutley’s Elements of Mineralogy, Thomas Murby & Co.
+  
   Sinkankas, J., 1969, Mineralogy, East West Edition.
+  
   Tutton, A. E.H., 1965, Crystallography and Practical Crystal Measurements. Vol. I. Today and tomorrow.
+  
   Wahlstrom, E.C., 1962, Optical Crystallography. Wiley.
+  
   Winchell, A.N., 1951, Elements of optical Mineralogy Part I Principles and Methods, 5th edn., Wiley.
+  
   Krauskopf, K. B. (1967), Introduction to Geochemistry, McGraw-Hill Book Co., New York, 721 p.
+  
   Mason, Brian, Moore and Carleton, B. (1982), Principles of geochemistry, John Wiley & Sons, New York, 344 p.
+  
   Gill, R. (1989), Chemical Fundamentals of Geology, HarperCollins Publishers Ltd, UK, 292p.
+  
   Holt, K.H.W. (1971), Geochemistry, Rinehart and Winston Inc, USA.
+  
   Rankama, K. and Sahama, T.H.G. (1950), Geochemistry, Univ. Chicago press, 911p.
+  
   Walther. J.V.(2010) Essentials of Geochemistry, Jones and Barlett Publishers, New Delhi. 797p.
