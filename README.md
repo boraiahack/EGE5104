@@ -3,10 +3,12 @@ Mineralogy Course
 
 
 Course Description
+
 Mineralogy is the branch of geology that deals with the fundamental building blocks of all rocks, i.e., minerals. It involves the systematic study that deals with the characteristics of the individual and group of minerals.The course deals with the analytical, macroscopic and microscopic investigations of minerals to understand their crystal chemistry, crystal structure, physical properties, optical properties and genesis.The course aims to give an overall understanding of how the textures of the minerals control the chemical budget, and in turn aids the chemical evolution of the solid Earth.
 
 
 Course Outcome
+
 By the end of the course, students are expected to be able to:
   Demonstrate mastery of the terminology of mineralogy
   Demonstrate confidence and accuracy in identifying important minerals in handspecimens, in outcrop, and under the microscope, and apply the theories to the
@@ -19,16 +21,20 @@ By the end of the course, students are expected to be able to:
 Course Structure
 
 Module - 1
+
 Crystallography – symmetry and its types, crystal faces, crystal forms and crystal habit. Crystal chemistry and structure – fundamentals of crystal chemistry, chemical controls on crystal structure, isostructural minerals, polymorphism, compositional variations, graphical representations. Introduction to X-ray crystallography, chemical analysis of minerals using EPMA, SEM, XRF and Mass spectrometry
 
 Module - 2
+
 Mineral growth and thermodynamics –mineral stability, phase diagrams, mineral nucleation, crystal growth, structural defects, twinning, post-crystallization processes, mineral evolution. Description of common rock forming minerals
 
 Module - 3
+
 Optical mineralogy - Optical properties of minerals: some physical background, refractive index and petrographic microscope, isotropic and anisotropic minerals, polarization and birefringence, optical indicatrix, dispersion, pleochroism. Identification of minerals using a petrographic microscope.
 
 
 Evaluation & Grading
+
 Lab Assessment – 10%
 Skill development (Analytical, Writing and Presentation) – 10% 
 Class Test – 20%
@@ -36,6 +42,7 @@ End Semester Assessment – 60%
 
 
 References
+  
   Perkins, D., 2014, Mineralogy, Pearson
   Okrusch, M. and Frimmel, H.E., 2020, Mineralogy – an introduction to minerals, rocks and mineral deposits, Springer Publications
   Kerr, P. F., 1959, Optical Mineralogy, McGraw Hill.
